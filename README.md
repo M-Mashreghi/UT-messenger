@@ -36,3 +36,13 @@
  and if he wants to see the sent messages to a Specefic users, he must type : show_sent username
  
  and for close user shoud type : close
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ <pre><code>&lt;http://www.example.com/some_page&gt;
+</code></pre>

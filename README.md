@@ -1,7 +1,7 @@
 # UT-messenger
  a simple messenger made with C++ and works with command line
  
- for signing up user should type : signup <username> <password> <phonenumber>
+ for signing up user should type : signup <<username> <password> <phonenumber>
  
  * the phone number must be 12 digits, and start with 0.
  

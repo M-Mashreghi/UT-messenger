@@ -5,7 +5,7 @@
  
  for signing up user should type :
  
- <pre><code>signup &lt;username&gt; "<password>" "<phonenumber>"
+ <pre><code>signup &lt;username&gt; &lt;password&gt; &lt;phonenumber&gt;
 </code></pre>
 
  
@@ -14,30 +14,32 @@
  * password must be at least 6 char or number
  
  
- for login user should type : login username pass
+ for login user should type : 
+ 
+ <pre><code> login &lt;username&gt; &lt;pass&gt;</code></pre>
  
  
  for logout user should type : logout
  
  if user wants to change his username or password should type : 
+ <pre><code> 
+ edit_username &lt;new username&gt;
 
- edit_username new username
-
- edit_pass new password
-
+ edit_pass &lt;new password&gt;
+</code></pre>
  
- for sending message to another user we should type : send username content
+ for sending message to another user we should type : <pre><code> send &lt;username&gt; &lt;content&gt; </code></pre>
  
  
  if a use wants to see all users, he should type : info
  
  
- if a use wants to a Specefic users, he should type : about username
+ if a use wants to a Specefic users, he should type : <pre><code>  about &lt;username&gt;   </code></pre>
  
  
- if person wants to see the recieved message from a Specefic users, he should type : show_ received username
+ if person wants to see the recieved message from a Specefic users, he should type : <pre><code> show_ received &lt;username&gt;</code></pre>
  
- and if he wants to see the sent messages to a Specefic users, he must type : show_sent username
+ and if he wants to see the sent messages to a Specefic users, he must type :<pre><code> show_sent &lt;username&gt; </code></pre>
  
  and for close user shoud type : close
  

@@ -3,7 +3,11 @@
  
  my finall progect at Introduction to Computing Systems and Programming course
  
- for signing up user should type : signup "<username>" "<password>" "<phonenumber>"
+ for signing up user should type :
+ 
+ <pre><code>signup &lt;username&gt; "<password>" "<phonenumber>"
+</code></pre>
+
  
  * the phone number must be 12 digits, and start with 0.
  

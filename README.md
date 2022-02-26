@@ -1,6 +1,8 @@
 # UT-messenger
  a simple messenger made with C++ and works with command line
  
+ my finall progect at Introduction to Computing Systems and Programming course
+ 
  for signing up user should type : signup username password phonenumber
  
  * the phone number must be 12 digits, and start with 0.
@@ -33,4 +35,4 @@
  
  and if he wants to see the sent messages to a Specefic users, he must type : show_sent username
  
- 
+ and for close user shoud type : close

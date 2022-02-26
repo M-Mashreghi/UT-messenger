@@ -3,7 +3,7 @@
  
  my finall progect at Introduction to Computing Systems and Programming course.
  
- in this project I didn't have allow to use some library like string.
+ in this project I didn't have allowed to use some library like string.
  
  for signing up user should type :
  

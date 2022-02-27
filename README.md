@@ -37,7 +37,7 @@ edit_pass &lt;new password&gt;
  if a use wants to a Specefic users, he should type : <pre><code>about &lt;username&gt;   </code></pre>
  
  
- if person wants to see the recieved message from a Specefic users, he should type : <pre><code>show_ received &lt;username&gt;</code></pre>
+ if person wants to see the recieved message from a Specefic users, he should type : <pre><code>show_received &lt;username&gt;</code></pre>
  
  and if he wants to see the sent messages to a Specefic users, he must type :<pre><code>show_sent &lt;username&gt; </code></pre>
  

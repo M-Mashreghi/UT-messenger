@@ -1,7 +1,7 @@
 # UT-messenger
  a simple messenger made with C++ and works with command line
  
- my finall progect at Introduction to Computing Systems and Programming course.
+ my finall project at Introduction to Computing Systems and Programming course.
  
  in this project I was not allowed to use some library like string.
  
